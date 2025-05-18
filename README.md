@@ -54,3 +54,9 @@ No roadmap. No empty promises. Just blocks, memes, and pure mining.
 
 > 💬 *“While others bark and meow, the King mints blocks.”*
 
+
+
+
+[![5859351139080849163.jpg](https://i.postimg.cc/J0pwQtT4/5859351139080849163.jpg)](https://postimg.cc/p551WVbg)
+
+
