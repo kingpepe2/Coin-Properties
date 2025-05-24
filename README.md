@@ -27,7 +27,7 @@ No roadmap. No empty promises. Just blocks, memes, and pure mining.
 | ⏱️ Target spacing         | `5 minutes`                             |
 | 🕰️ Target timespan        | `10 minutes`                            |
 | ✅ Confirmations required  | `6 blocks`                              |
-| 🖧 Addnodes (Peers)        | `addnode=node3.walletbuilders.com`and `addnode=85.237.211.140` |
+| 🖧 Addnodes (Peers)        | `addnode=http://85.237.211.140:22093` |
 | 📜 Timestamp               | *Pepe began in 2005 by Matt Furie in Boys Club* |
 
 ---
