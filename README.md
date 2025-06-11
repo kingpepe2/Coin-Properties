@@ -27,7 +27,6 @@ No roadmap. No empty promises. Just blocks, memes, and pure mining.
 | 🕰️ Target timespan        | `10 minutes`                            |
 | ✅ Confirmations required  | `6 blocks`                              |
 | 🖧 Addnodes (Peers)        | `addnode=http://pepe3.org:22093` |
-| 📜 Timestamp               | *Pepe began in 2005 by Matt Furie in Boys Club* |
 
 ---
 
