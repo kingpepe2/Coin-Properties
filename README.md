@@ -15,10 +15,10 @@ No roadmap. No empty promises. Just blocks, memes, and pure mining.
 | 🪙 Coin name              | KingPepe                                |
 | 🏷️ Abbreviation (Ticker)  | `KPEPE`                                 |
 | 💰 Coin unit              | `kpepy`                                 |
-| 🧾 Public address prefix   | `1`                                     |
-| 🧪 Testnet address prefix | `M`                                     |
-| 🔌 RPC Port               | `22093`                                 |
-| 🔗 P2P Port               | `22094`                                 |
+| 🧾 Public address prefix   | `M`                                     |
+| 🧪 Testnet address prefix | `S`                                     |
+| 🔌 RPC Port               | `24027`                                 |
+| 🔗 P2P Port               | `24028`                                 |
 | 🎁 Block reward           | `3 KPEPE`                              |
 | ⛏️ Block halving          | Every `210,000` blocks                  |
 | 🪙 Max coin supply         | `21,000,000` KPEPE                      |
