@@ -19,10 +19,9 @@ No roadmap. No empty promises. Just blocks, memes, and pure mining.
 | 🧪 Testnet address prefix | `M`                                     |
 | 🔌 RPC Port               | `22093`                                 |
 | 🔗 P2P Port               | `22094`                                 |
-| 🎁 Block reward           | `50 KPEPE`                              |
+| 🎁 Block reward           | `3 KPEPE`                              |
 | ⛏️ Block halving          | Every `210,000` blocks                  |
-| 🪙 Max coin supply         | `22,000,000` KPEPE                      |
-| 🪙 Premine                 | `1,000,000` KPEPE                       |
+| 🪙 Max coin supply         | `21,000,000` KPEPE                      |
 | 📦 Coinbase maturity      | `20 (+1 confirmation)`                 |
 | ⏱️ Target spacing         | `5 minutes`                             |
 | 🕰️ Target timespan        | `10 minutes`                            |
